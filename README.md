@@ -5,7 +5,7 @@
 
 * perf.sh : Excute and Measure TTFT, Prefill time, KV Cache Loading time with RAG-Dcache.
 
-  ※ Before excute "perf.sh", unzip "msquad_balance.zip" file in datasets directory.
+  ※ Before excute "perf.sh", unzip "msquad_balance.zip" file in "./dataset/ directory.
 
 * ragdcache_cache.py : RAG-Dcache using Memory cache.
 
